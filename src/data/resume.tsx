@@ -109,7 +109,7 @@ export const DATA = {
       end: "2026",
     },
     {
-      school: "Pubjab College",
+      school: "Punjab College",
       href:"https://pgc.edu/",
       degree: "FSc Pre-Engineering",
       logoUrl: "/ib.png",
