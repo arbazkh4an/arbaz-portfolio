@@ -161,7 +161,7 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://caffeine-tracker-git-main-khanarbaz1326-gmailcoms-projects.vercel.app/",
+          href: "https://caffeine-tracker-xi.vercel.app/",
           icon: <Icons.globe className="size-3" />,
         },
       ],
