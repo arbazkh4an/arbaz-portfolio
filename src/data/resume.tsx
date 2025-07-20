@@ -122,7 +122,7 @@ export const DATA = {
    {
       title: "Movie Recomendation System",
       href: "",
-      dates: "Jan 2025 - Feb 2025",
+      dates: "Feb 2025",
       active: true,
       description:
         "With the release of the New and New Movies i decided to make a Website Which can recommend people movies  based on their previous choosings using Machine Learning Algorithms. ",
@@ -140,7 +140,32 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "",
+      image: "/movierecommend.png",
+      video:
+        "",
+    },
+    {
+      title: "Caffeine Tracker",
+      href: "",
+      dates: "July 2025",
+      active: true,
+      description:
+        "I developed a Caffeine Indicator app that helps users monitor their daily caffeine consumption. The app tracks intake from various sources (like coffee, tea, energy drinks, etc.) and compares it against the recommended daily limit",
+      technologies: [
+        "typescript",
+        "css",
+        "HTML",
+        "React ",
+        "TailwindCSS",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://caffeine-tracker-git-main-khanarbaz1326-gmailcoms-projects.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/caffiene.png",
       video:
         "",
     },
