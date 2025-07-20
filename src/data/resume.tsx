@@ -136,7 +136,7 @@ export const DATA = {
       links: [
         {
           type: "Website",
-          href: "https://chatcollect.com",
+          href: "https://movie-recommender-3.streamlit.app/",
           icon: <Icons.globe className="size-3" />,
         },
       ],
